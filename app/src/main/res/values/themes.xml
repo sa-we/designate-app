@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight">
+        <!-- Anpassungen wie Farben, Schrift etc. -->
+<!--        <item name="android:textColor">@color/btn_send_data_bg_color</item>-->
+    </style>
+
+    <style name="AppTheme.Main" parent="Theme.Material3.DayNight">
+    </style>
+
+
+
+    <style name="Base.Theme.WebView" parent="Theme.Material3.DayNight">
+    </style>
+
+    <style name="Theme.WebView" parent="Base.Theme.WebView" />
+
+    <style name="Theme.WebView.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.WebView.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="Theme.WebView.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+</resources>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_main_desc">Loggen Sie sich nun bitte in die Apps ein, die Sie nutzen. Tippen Sie dafür auf den Button mit dem App-Namen. Geben Sie anschließend Ihren Benutzernamen und Passwort ein und speichern Sie Ihre Zugangsdaten. Kehren Sie danach zu diesem Startbildschirm zurück und wiederholen Sie dieses Vorgehen, bis Sie sich bei allen Apps, die Sie nutzen, eingeloggt haben. \nWenn Sie damit fertig sind, wählen Sie die untenstehende Checkbox aus und starten den Service. \n</string>
+    <string name="settings">Einstellungen</string>
+    <string name="app_name">DESIGNATE</string>
+    <string name="dialog_set_permissions_manually_text">Damit die DESIGNATE-App korrekt funktioniert, benötigt sie Zugriff auf Ihre Nutzungsdaten. \n\nFalls die Rechtevergabe über den Dialog nicht funktioniert, müssen Sie die Berechtigung manuell erteilen.\nJe nach Gerät und Android-Version finden Sie diese Einstellung unter \n\nEinstellungen > Apps > Einstellungen > Spezieller Zugriff > Zugriff auf Nutzungsdaten \n\noder suchen Sie in den Einstellungen nach ‚Nutzung‘ oder ‚Usage Access‘. Dort aktivieren Sie bitte den Zugriff für unsere App.\n\nKehren Sie anschließend hierher zurück.\n\n</string>
+    <string name="dialog_thank_you_text"><b>Vielen Dank für die Teilnahme an unserer Studie!</b>\n\nÜber diesen Link können Sie Ihre Mailadresse angeben, um bei Erfüllung der Voraussetzungen Ihre Aufwandsentschädigung zu erhalten. Zusätzlich können Sie so an der Verlosung der Geldgewinne teilnehmen. \n\n<a href="https://bildungsportal.sachsen.de/umfragen/limesurvey/index.php/959793">https://bildungsportal.sachsen.de/umfragen/limesurvey/index.php/959793</a>\n\nSie können die DESIGNATE-App nun deinstallieren. \n</string>
+    <string name="txt_study_runtime_days">Die Studie läuft noch %1$d Tage.</string>
+    <string name="txt_study_runtime_days_send_data_today">Die Studie läuft noch %1$d Tage. \nBitte senden Sie jetzt Ihre Daten!</string>
+    <string name="txt_study_runtime_days_send_data_daily">Die Studie läuft noch %1$d Tage. Bitte senden Sie möglichst einmal am Tag Ihre Daten!</string>
+    <string name="txt_study_is_over">Die Studie ist vorbei.\nBitte senden Sie Ihre Daten!</string>
+    <string name="txt_study_is_over_uninstall">Die Studie ist vorbei.\nBitte deinstallieren Sie die DESIGNATE-App!</string>
+    <string name="toast_data_successfully_sent">Daten erfolgreich gesendet!</string>
+    <string name="toast_send_data_problem">Problem beim Senden! Fehler: %1$d</string>
+    <string name="dialog_permissions_title">Berechtigungen aktivieren</string>
+    <string name="dialog_permissions_text">Bitte erteilen Sie der App die erforderlichen Berechtigungen.</string>
+    <string name="dialog_permissions_usage_stats">Bitte Nutzungsdaten erlauben!</string>
+    <string name="dialog_permissions_overlay">Bitte Overlays erlauben!</string>
+    <string name="dialog_permissions_notifications">Bitte Notifications erlauben, gehen Sie dazu  in die App-Einstellungen!</string>
+    <string name="dialog_permissions_granted">Alle Berechtigungen erteilt!</string>
+    <string name="txt_check_user_id">"Benutzer-ID: %1$s"</string>
+    <string name="dialog_user_id_hint">Benutzer-ID eingeben</string>
+    <string name="dialog_user_id_title">Benutzer-ID</string>
+    <string name="dialog_user_id_save">Speichern</string>
+    <string name="dialog_user_id_not_empty">ID darf nicht leer sein</string>
+    <string name="dialog_user_id_only_letters_and_numbers">Nur Buchstaben und Zahlen erlaubt</string>
+    <string name="dialog_user_id_user_id">"User ID: %1$s"</string>
+    <string name="toast_designate_is_inactive">DESIGNATE wurde deaktiviert!</string>
+    <string name="open">Öffnen</string>
+    <string name="close">Schließen</string>
+    <string name="txt_need_more_data">Bitte wechseln Sie zu DESIGNATE. Wir benötigen mehr Daten für die Studie!</string>
+    <string name="toast_please_operate_all_seekbars">Bitte alle Schieberegler bedienen.</string>
+    <string name="toast_fill_text_field">Mindestens ein Freitextfeld muss ausgefüllt sein.</string>
+    <string name="toast_questionnaire_successfully_completed">Fragebogen erfolgreich abgeschlossen!</string>
+    <string name="service_is_starting">wird gestartet</string>
+    <string name="toast_please_switch_to_designate">Bitte wechseln Sie zu DESIGNATE!</string>
+    <string name="txt_inactive">inaktiv</string>
+    <string name="toast_open_questionnaire">Öffne Fragebogen!</string>
+    <string name="txt_study_runtime_hours">Die Studie läuft noch %1$d Stunden.</string>
+    <string name="txt_study_runtime_minutes">Die Studie läuft noch %1$d Minuten.</string>
+    <string name="txt_study_runtime_one_minute">Die Studie läuft noch %1$d Minute.</string>
+    <string name="txt_understand_and_agree">Ich habe verstanden und bin damit fertig!</string>
+    <string name="start_service">Starte Service</string>
+    <string name="stop_service">Stoppe Service</string>
+    <string name="send_data">Sende Daten</string>
+    <string name="next">Weiter</string>
+    <string name="back">Zurück</string>
+    <string name="finished">Fertig</string>
+    <string name="txt_allow_usage_access">Nutzungszugriff erlauben</string>
+    <string name="txt_allow_overlay_access">Overlay-Zugriff erlauben</string>
+    <string name="txt_allow_notifications">Benachrichtigungen erlauben</string>
+    <string name="txt_switch_to_designate">Möchten Sie zu DESIGNATE wechseln?</string>
+    <string name="ok">OK</string>
+    <string name="txt_close_questionnaire">Fragebogen abschließen</string>
+    <string name="facebook">Facebook</string>
+    <string name="instagram">Instagram</string>
+    <string name="x">X</string>
+    <string name="youtube">YouTube</string>
+    <string name="txt_all_data_sent">Es gibt keine neuen Daten!</string>
+    <string name="toast_designate_runs_in_background">DESIGNATE läuft im Hintergrund!</string>
+    <string name="toast_no_internet_connection">Keine Verbindung zum Server. Bitte prüfen Sie Ihre Internetverbindung!</string>
+    <string name="dialog_login_social_media">Sie werden jetzt zu %1$s  weitergeleitet. Loggen Sie sich dort mit Ihren Zugangsdaten ein. Wählen Sie anschließend die Option \"Logindaten speichern\" aus, damit Sie Ihre Zugangsdaten nur einmalig angeben müssen. Wechseln Sie NICHT in die %1$s-App, auch wenn Sie dazu aufgefordert werden.\n\nSobald Sie sich angemeldet haben, können Sie über den Zurück-Button Ihres Smartphones wieder in die DESIGNATE-App kommen. Es kann notwendig sein, dass Sie den Zurück-Button einige Male drücken müssen, bis Sie wieder in der DESIGNATE-App sind. \n\nHINWEIS: Es werden hier noch keine Touch-Events aufgezeichnet. Es ist kein Rückschluss auf Ihre Anmeldedaten möglich. \n</string>
+    <string name="txt_dont_use_native_app">Bitte nicht die App öffnen.</string>
+    <string name="dialog_welcome_text"><b>Herzlich Willkommen in der DESIGNATE-App!</b>\n\nBevor es richtig losgehen kann, muss die App noch eingerichtet werden. Wir werden Sie dabei begleiten. \nFolgende Schritte sind erforderlich: \n\n- Berechtigungen Ihres Smartphones erteilen\n- Eingabe Ihres individuellen Teilnahme-Codes \n- Zugangsdaten zu Ihren Social Media Kanälen eingeben\n\nDanach startet die Studie!</string>
+    <string name="dialog_help_text"><b>APP INFORMATIONEN DATENAUFZEICHNUNG UND –VERWENDUNG</b>\n\nEs werden Ihre Daten zur Ihrer Internetznutzung und -einstellungen erhoben. In der App werden neben technischen Daten (Betriebssystem, Bildschirmauflösung) ihre Nutzungsdaten erhoben (wo und wann wird der Bildschirm berührt) sowie Angaben aus Kurzfragebögen, die regelmäßig erscheinen (Stresslevel und emotionaler Wert der betrachteten Inhalte). \n\nWICHTIG: Es werden KEINE persönlichen Daten wie Zugangsdaten, gesehene Inhalte oder Nachrichten etc. aufgezeichnet. Die App ermöglicht lediglich die Erhebung Ihrer Display-Berührungen und den zugehörigen Zeitpunkt. Die Aufzeichnung startet erst, nachdem Sie Ihre Zugangsdaten für die Apps eingegeben haben. Sie können jederzeit selbst entscheiden, ob die Datenaufzeichnung aktiviert oder deaktiviert ist. Um an der Verlosung der Geldgewinne teilnehmen zu können, ist es jedoch erforderlich mindestens 1 Stunde am Tag die DESIGNATE-App zu nutzen.</string>
+    <string name="dialog_help_e_mail">Für Rückfragen oder Anmerkungen erreichen Sie das Studien-Team unter:\n\ndesignate@tu-dresden.de\n</string>
+    <string name="dialog_help_www">Weitere Informationen zur Studie erhalten Sie hier:\n\nhttps://tu-dresden.de/mn/psychologie/iaosp/applied-cognition/forschung/ema-studie</string>
+    <string name="questionnaire_q1">Wie angespannt sind Sie im Moment? 0 entspricht vollständiger Entspannung, 100 vollständiger Anspannung.</string>
+    <string name="questionnaire_q2">Wie viel Content, der Ihnen gerade in Ihrer Timeline angezeigt wurde, können Sie jetzt noch erinnern? 0 entspricht keiner Erinnerung an Content, 100 entspricht einer vollständigen Erinnerung an alles, was Sie die letzten 10 Minuten gesehen haben.</string>
+    <string name="questionnaire_q3">Bitte geben Sie beispielhaft drei Themen an, zu denen Sie Inhalte gesehen haben!</string>
+    <string name="questionnaire_q4">Waren die Inhalte, die Sie gesehen haben, eher positiv oder negativ? Gewichten Sie hier die positiven und negativen Inhalte, z.B. mehr negativer als positiver Inhalt = Wert auf der linken Seite; etwa gleich viel negativer und positiver Inhalt = Wert in der Mitte.</string>
+    <string name="_0">0</string>
+    <string name="_100">100</string>
+    <string name="a1">Thema 1</string>
+    <string name="a2">Thema 2</string>
+    <string name="a3">Thema 3</string>
+    <string name="neg">negativ</string>
+    <string name="pos">positiv</string>
+    <string name="help">Hilfe</string>
+    <string name="about">Info</string>
+    <string name="dialog_prize_draw_text">Sie können nun an der Verlosung der Geldgewinne teilnehmen. Klicken Sie dafür bitte auf diesen Link und geben Sie Ihre Mailadresse an. Vielen Dank für Ihre Teilnahme! <a href="https://bildungsportal.sachsen.de/umfragen/limesurvey/index.php/959793">https://bildungsportal.sachsen.de/umfragen/limesurvey/index.php/959793</a></string>
+    <string name="data_protection">Datenschutz</string>
+    <string name="txt_data_protection">Hier finden Sie die aktuelle Datenschutzerklärung.\n\n<a href="https://bildungsportal.sachsen.de/umfragen/limesurvey/upload/surveys/858237/files/DES_Scrolling_Datenschutzerkl%C3%A4rung.pdf">https://bildungsportal.sachsen.de/umfragen/limesurvey/upload/surveys/858237/files/DES_Scrolling_Datenschutzerkl%C3%A4rung.pdf</a></string>
+    <string name="dialog_hibernation"><b>Automatisches Pausieren deaktivieren</b>\n\nIhre Android-Version pausiert die DESIGNATE-App automatisch nach einiger Zeit.\n\nBitte deaktivieren Sie diese Einstellung! Je nach Version und Hersteller ist die Bezeichung unterschieldlch, z.B.:\n\"App bei Nichtnutzung pausieren\"\n\"App verwalten bei ungenutzt\"\n\"Apps im Ruhezustand\"\n\"App-Aktivität bei Nichtnutzung stoppen\"\nXiaomi: \"Akku und Leistung\" → \"Apps verwalten\" → Designate → \"Kein Sparmodus\"</string>
+    <string name="dialog_battery_settings"><b>Akku Optimierung</b>\n\nDamit alle Funktionen dieser App zuverlässig im Hintergrund laufen (z.B. Benachrichtigungen, Fragebögen), prüfen Sie bitte, ob Akku-Optimierungen aktiv sind und deaktivieren Sie diese bitte gegebenenfalls.\n</string>
+    <string name="txt_please_send_data_daily">Bitte senden Sie möglichst einmal am Tag Ihre Daten!</string>
+    <string name="txt_generate_user_id">Zusammensetzung der Benutzer-ID: \n- Tag der Geburt (zweistellig) \n- jeweils erster und letzter Buchstabe von Geburtsort, Geburtsname Mutter, Vorname Vater</string>
+    <string name="more">mehr Infos</string>
+
+</resources>

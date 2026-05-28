@@ -1,0 +1,18 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/txt_hibernation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dialog_hibernation"
+        android:autoLink="web"
+        android:layout_marginBottom="16dp"
+        android:textColorLink="#006699"
+        />
+
+</LinearLayout>
+
