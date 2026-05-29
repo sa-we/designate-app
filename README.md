@@ -20,7 +20,7 @@ stress levels and emotional responses in everyday situations.
 **Privacy:** No personal data is collected. Login credentials, viewed content, and
 messages are never recorded or transmitted.
 
-**Contact:** Romy Müller — [Applied Cognition Lab, TU Dresden](https://tu-dresden.de/mn/psychologie/iaosp/applied-cognition)
+**Contact:** Sascha Weber - [Applied Cognition Lab, TU Dresden](https://tu-dresden.de/mn/psychologie/iaosp/applied-cognition)
 
 ---
 
@@ -66,7 +66,7 @@ messages are never recorded or transmitted.
      └─────────────────────┘     └──────────────────┘
 ```
 
-- The monitoring service runs continuously in the background and survives device reboots.
+- The monitoring service runs continuously in the background and detects when a social app is opened.
 - When a supported social media app is opened, the app overlays a transparent WebView that logs touch coordinates and timing.
 - Up to **5 short questionnaires** per day are triggered after social media sessions.
 - Collected data is automatically uploaded to a secure Nextcloud server.
@@ -113,7 +113,7 @@ Before building, add the Nextcloud credentials to your `local.properties` file
 (this file is excluded from version control):
 
 ```properties
-nextcloud.url=https://datashare.tu-dresden.de
+nextcloud.url=YOUR_DATASHARE
 nextcloud.username=YOUR_USERNAME
 nextcloud.password=YOUR_PASSWORD
 ```
